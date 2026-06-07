@@ -1,0 +1,10 @@
+# Αγνοήση φακέλων με δεδομένα και βάρη
+Cifake_Dataset/
+*.pth
+
+# Αγνόηση αρχείων συστήματος
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
